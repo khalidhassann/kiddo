@@ -21,7 +21,7 @@ void main() {
     SystemUiMode.immersive,
   );
 
-  // Music().play();
+  // Music().play();.
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
 }
 
